@@ -10,3 +10,8 @@ Note : you should see sobstitute 30 for winter sprites and sobstitute 3 for defa
 All credits to OhoDavi for making the original sprites
 Original mod : https://www.nexusmods.com/stardewvalley/mods/1839
 Everything i made is free to use (considering you already have OhoDavi permission), just give credits to me for the winter and updated default sprites. 
+The sprites made by me are:
+Kent new 1.6 sprites
+Linus bath sprites
+Sam dark sprite
+Alex missing beach sprite (WIP) 
