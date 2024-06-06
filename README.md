@@ -4,7 +4,7 @@ Note : this is missing most of the dafault sprites. Go on the mod site (link bel
 
 # How to use 
 Extract the file and Paste the "Portraits" folder into your "...Stardew Valley/Content/Portraits" folder (Dont forget back back up before you replace the file)
-Note : you should see sobstitute 30 for winter sprites and sobstitute 3 for default sprites. 
+Note : you should see sobstitute 30 for winter sprites and sobstitute 3 for default sprites and sobstitute 1 for beach sprite
 
 # Credits
 All credits to OhoDavi for making the original sprites
@@ -14,4 +14,4 @@ The sprites made by me are:
 Kent new 1.6 sprites
 Linus bath sprites
 Sam dark sprite
-Alex missing beach sprite (WIP) 
+Alex missing beach sprite 
